@@ -28,7 +28,7 @@ This hasn't broken my iPhone yet but if a domain breaks your use-case, just disa
 
 I currently use this on an Apple iPad mini Wi-Fi (2012) and an iPhone 7 Plus (2016) - with hopes for the list to be impletemented on an iMac Pro (2017).
 
-If you're looking for a very simple set and forget hassle-free process, I highly recommend [Lockdown Privacy](https://lockdownprivacy.com/) on the iOS and Mac Appstore.
+If you're looking for a very simple set-and-forget-hassle-free process, I highly recommend [Lockdown Privacy](https://lockdownprivacy.com/) on the iOS and Mac Appstore as a simple tracker and ad-blocker.
 
 Hope this helps!
 
