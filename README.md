@@ -2,7 +2,6 @@
 A list of domains to allow/block that will not break the iPhone and minimise telemetry for general use. 
 
 This isn't for completely privacy but to block minor telemetry missed by bigger lists for Apple use-case.
-
 This is used in conjuction with NextDNS and the following:
 - NextDNS Ads & Trackers Blocklist
 - AdGuard DNS filter
