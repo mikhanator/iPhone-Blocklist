@@ -27,3 +27,5 @@ While this blocks over 1,350,400 entires (with duplicates in overlapping lists),
 While this hasn't broken my iPhone yet, if a domain breaks your use-case, just disable/add to your own Allowlist.
 
 Hope this helps!
+
+Mik
