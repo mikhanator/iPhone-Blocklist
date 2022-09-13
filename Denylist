@@ -13,6 +13,7 @@
 *.mesu.apple.com
 *.gdmf.apple.com
 *.ppq.apple.com
+*.idiagnostics.apple.com
 
 *.mobile-gtalk.l.google.com
 *.gstaticadssl.l.google.com
