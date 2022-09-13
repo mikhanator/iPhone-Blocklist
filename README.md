@@ -24,7 +24,7 @@ This is used in conjuction with NextDNS and the following:
 - Adguard Tracking Protection filter
 
 While this blocks over 1,350,400 entires (with duplicates in overlapping lists), there isn't much for Apple telemetry.
-While this hasn't broken my iPhone yet, if a domain breaks your use-case, just disable/add to your own Allowlist.
+This hasn't broken my iPhone yet but if a domain breaks your use-case, just disable/add to your own Allowlist.
 
 I currently use this on an Apple iPad mini Wi-Fi (2012) and an iPhone 7 Plus (2016) - with hopes for the list to be impletemented on an iMac Pro (2017).
 
