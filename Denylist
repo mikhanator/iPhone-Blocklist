@@ -19,6 +19,17 @@
 *.stun1.l.google.com
 *.app-measurement.com
 
+*.analytics.spotify.com
+*.upgrade.spotify.com
+*.bloodhound.spotify.com
+*.heads-ec.spotify.com
+*.crashdump.spotify.com
+*.gslb.spotify.com
+*.sto3.spotify.com
+*.audio2.spotify.com
+*.audio-ec.spotify.com
+*.ads-fa.spotify.com
+
 *.graph.instagram.com
 *.get-test.mona.co
 *.msidentity.de
