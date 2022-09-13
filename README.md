@@ -1,7 +1,7 @@
 # iPhone-Blocklist
 A list of domains to allow/block that will not break the iPhone and minimise telemetry for general use. 
+This isn't for completely privacy but to block minor telemetry missed by bigger lists for Apple use-cases.
 
-This isn't for completely privacy but to block minor telemetry missed by bigger lists for Apple use-case.
 This is used in conjuction with NextDNS and the following:
 - NextDNS Ads & Trackers Blocklist
 - AdGuard DNS filter
@@ -25,6 +25,8 @@ This is used in conjuction with NextDNS and the following:
 
 While this blocks over 1,350,400 entires (with duplicates in overlapping lists), there isn't much for Apple telemetry.
 While this hasn't broken my iPhone yet, if a domain breaks your use-case, just disable/add to your own Allowlist.
+
+I currently use this on an Apple iPad mini Wi-Fi (2012) and an iPhone 7 Plus (2016) - with hopes for the list to be impletemented on an iMac Pro (2017).
 
 Hope this helps!
 
