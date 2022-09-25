@@ -1,10 +1,25 @@
-Unknown
+///Unknown
+*.bookkeeper.itunes.apple.com
+*.iphonesubmissions.apple.com
+*.radarsubmissions.apple.com
+*.time-ios.apple.com
+*.configuration.apple.com
+*.xp.apple.com
+*.ppq.apple.com
+
+///Functions
+*.keyvalueservice.fe.apple-dns.net (iCloud Syncing)
+*.idiagnostics.apple.com (Diagnostic Data)
+*.mesu.apple.com (Main Entry Software Update)
+*.gdmf.apple.com (iOS Updated)
+*.pancake.apple.com (Homeshare Vaildation Verification)
+*.smoot.apple.com (Safari Spotlight Search Suggestions)
+*.ls.apple.com (Location Services)
+
+///Misc
 
 
-Functions
-
-
-Misc
-
-
-Servers
+///Servers
+*.guzzoni.apple.com
+*.cl5.apple.com
+*.cl4.apple.com
