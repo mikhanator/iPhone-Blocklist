@@ -26,7 +26,7 @@ appleid.cdn-apple.com
 ///Functions
 *.keyvalueservice.fe.apple-dns.net (iCloud Syncing)
 *.idiagnostics.apple.com (Diagnostic Data)
-*.mesu.apple.com (Main Entry Software Update)
+*.mesu.apple.com (Main Entry Software Update; updates "Find My" locations)
 *.gdmf.apple.com (iOS Updated)
 *.pancake.apple.com (Homeshare Vaildation Verification)
 *.smoot.apple.com (Safari Spotlight Search Suggestions)
