@@ -38,7 +38,7 @@ This hasn't broken my iPhone yet but if a domain breaks your use-case, just disa
 
 #### Community Support Needed!
 
-There are many Apple domains that don't have an explanation or are withheld due to the walled garden. But you can help by updating the [currently known domains list](./Currently Known Domains).
+There are many Apple domains that don't have an explanation or are withheld due to the walled garden. But you can help by updating the [currently known domains list](./Currently%20Known%20Domains).
 
 
 ----
