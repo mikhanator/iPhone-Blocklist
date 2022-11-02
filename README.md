@@ -30,7 +30,7 @@ This is used in conjuction with [NextDNS](https://nextdns.io/) and the following
 - Adguard Tracking Protection filter
 
 While this blocks over <kbd>1,350,400 entires</kbd> (with duplicates in overlapping lists), there isn't much for Apple telemetry.
-This hasn't broken my iPhone yet but if a domain breaks your use-case, just disable/add to your own Allowlist.
+This hasn't broken my iPhone yet but if a domain breaks your use-case, just disable/add to your own [Allowlist](./allowlist.md).
 
 
 ----
@@ -38,8 +38,7 @@ This hasn't broken my iPhone yet but if a domain breaks your use-case, just disa
 
 #### Community Support Needed!
 
-There are many Apple domains that don't have an explanation or are withheld due to the walled garden. But you can help by updating the 
-
+There are many Apple domains that don't have an explanation or are withheld due to the walled garden. But you can help by updating the [currently known domains list](./Currently Known Domains.md).
 
 
 ----
