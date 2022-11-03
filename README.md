@@ -8,7 +8,7 @@ This doesn't provide complete privacy in Apple use-cases but blocks minor teleme
 
 #### What's it Blocking?
 
-Refer to the [denylist](./Denylist). This is used in conjuction with [NextDNS](https://nextdns.io/) and the following:
+Refer to the [Denylist](./Denylist). This is used in conjuction with [NextDNS](https://nextdns.io/) and the following:
 - NextDNS Ads & Trackers Blocklist
 - AdGuard DNS filter
 - osid
