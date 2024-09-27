@@ -46,13 +46,9 @@ There are many Apple domains that don't have an explanation or are withheld due 
 
 #### Alternatives
 
-I currently use this on an Apple iPad mini Wi-Fi (2012) and an iPhone 7 Plus (2016) - with hopes for the list to be impletemented on an iMac Pro (2017).
-
-If you're looking for a free and very simple set-and-forget-hassle-free solution, I highly recommend [Lockdown Privacy](https://lockdownprivacy.com/) on the iOS and Mac Appstore as a simple tracker and ad blocker.
+If you're looking for a free and very simple set-and-forget-hassle-free solution, I highly recommend [Lockdown Privacy](https://lockdownprivacy.com/) or [AdGuard](https://adguard.com/en/welcome.html) on Andriod, iOS and Mac Appstore as a simple tracker and ad blocker.
 
 Hope this helps!
-
-Mik
 
 
 ----
